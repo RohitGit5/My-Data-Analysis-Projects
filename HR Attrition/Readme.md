@@ -2,9 +2,6 @@ My Power BI projects with key findings
 
 HR Attrition Insights : Analyzing Factors Contributing to Employee Attrition
 Goal: To determine the factors contributing the most to employee attrition within a company.
-
-Path https://github.com/RohitGit5/PowerBi-Dashboards/blob/d2841b9863bfa7ae9b73def11fa3847d6691181d/HR%20Attrition%20Insights.pbix
-
 Description: The project focused on analyzing a dataset of employee records from a company, including details such as job roles, salaries, years at the company, age, job satisfaction, and attrition rates. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), and identifying key factors correlated with employee attrition rates.
 
 Skills: Data cleaning, Data analysis, Data visualization
