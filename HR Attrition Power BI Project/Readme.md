@@ -8,6 +8,6 @@
 
 **Skills:** Data cleaning, Data analysis, Data visualization
 
-**Technology:** Power BI, CSV
+**Technology:** Power BI
 
 **Results:** Key insights from the analysis highlighted that attrition was notably high among employees receiving moderate salary hikes, lower salary levels, younger age groups, and specific job roles such as Laboratory Technicians, who also reported poor job satisfaction. Furthermore, employees with fewer years at the company exhibited higher attrition rates. These findings can help inform HR strategies to mitigate attrition by targeting salary and job satisfaction issues.
