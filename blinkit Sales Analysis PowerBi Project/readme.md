@@ -1,5 +1,13 @@
 # Insight Report: Retail Sales Performance Analysis
 
+**Goal:** To determine the factors contributing the most to employee attrition within a company.
+
+**Description:** The project focused on analyzing a dataset of employee records from a company, including details such as job roles, salaries, years at the company, age, job satisfaction, and attrition rates. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), and identifying key factors correlated with employee attrition rates.
+
+**Skills:** Data cleaning, Data analysis, Data visualization
+
+**Technology:** Power BI
+
 ---
 
  **Key Insights:** 
