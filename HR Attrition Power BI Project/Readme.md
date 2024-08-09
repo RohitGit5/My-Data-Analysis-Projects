@@ -1,6 +1,4 @@
-# Insights
-
-**HR Attrition Insights :** Analyzing Factors Contributing to Employee Attrition
+# HR Attrition Insights : Analyzing Factors Contributing to Employee Attrition
 
 **Goal:** To determine the factors contributing the most to employee attrition within a company.
 
