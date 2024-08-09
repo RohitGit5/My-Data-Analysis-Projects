@@ -1,4 +1,4 @@
-# Retail Sales Performance Analysis Insight Report:
+# blinkit Retail Sales Performance Analysis Insight Report:
 
 **Goal:** To analyze retail sales performance across different outlet locations, sizes, and item types, with a focus on identifying key trends and insights for strategic decision-making.
 
